@@ -1,2 +1,3 @@
 # hello-world
-test
+Hola
+This is a test of github!
